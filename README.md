@@ -6,5 +6,9 @@ This repository contains the code for **Federated Online Inference under Local D
 pip3 install -r requirement.txt  
 ```
 + ldp_lsgd.py implements Robust Linear Regression, Quantile regression and Logistic Regression.
-+ quantile_estimation.py implements Population quantile estimation.
-+ tool_function.py contains some useful tool_function and tool_gradient is used for figure out sample gradient.  
++ quantile_estimation.py implements Population Quantile Estimation. 
++ tool_function.py includes various utility functions, and tool_gradient.py is used to compute sample gradients.
+
+
+
+
