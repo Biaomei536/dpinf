@@ -1,2 +1,2 @@
-# ldp-lsgd
-This repository is for Federated Online Inference under Local Differential Privacy Guarantee
+# Federated Online Inference under Local Differential Privacy Guarantee
+This repository contains the code for **Federated Online Inference under Local Differential Privacy Guarantee**
